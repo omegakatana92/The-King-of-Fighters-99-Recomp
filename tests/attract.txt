@@ -1,0 +1,2 @@
+# The King of Fighters '99 - attract-mode profile session (no input)
+# Frame numbers count 59.19 Hz video frames from power-on.

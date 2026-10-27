@@ -1,0 +1,52 @@
+# Build outputs and CMake artefacts (never commit)
+build*/
+generated/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.xcodeproj/
+.vs/
+
+# ROM data: never commit. Supply your own legally obtained dump.
+roms/
+roms-src/
+*.p1
+*.p2
+*.c1
+*.c2
+*.c3
+*.c4
+*.c5
+*.c6
+*.c7
+*.c8
+*.m1
+*.v1
+*.v2
+*.v3
+*.v4
+*.s1
+*.sfix
+*.sp1
+*.lo
+*.neo-sma
+
+# Generated / ROM-derived output
+entries*.txt
+shots/
+*.wav
+*.mp4
+
+# Distribution artifacts (uploaded to GitHub Releases, not committed)
+dist/
+*.AppImage
+*.zip
+
+# Editor / OS noise
+*.user
+*.suo
+Thumbs.db
+.DS_Store

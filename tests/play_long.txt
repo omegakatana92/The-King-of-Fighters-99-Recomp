@@ -1,0 +1,80 @@
+# The King of Fighters '99 - coin, start, menus and the first match.
+# Frame numbers count 59.19 Hz video frames from power-on.
+# The BIOS ignores coin/start until the cartridge title screen is up, so the
+# first credit goes in at frame 1600.
+1600 coin
+1800 coin
+2000 start
+2200 start
+# HOW TO PLAY pages
+4800 start
+# character select: confirm the default team, striker and order
+5200 a
+5600 a
+6000 a
+7600 a
+8000 a
+8400 a
+# move and use all four buttons in the match
+8800-9200 right
+9400 a
+9500 b
+9600 c
+9700 d
+10000-10400 left
+10600 a
+10700 b
+10800 c
+10900 d
+11200-11600 right
+11800 a
+11900 b
+12000 c
+12100 d
+12400 start
+13000 a
+13100 b
+13200 c
+13300 d
+13600-14000 left
+14200 a
+14300 b
+14400 c
+14500 d
+14800 start
+
+
+# Continue / second match: keep the session alive and exercise more code
+16000 start
+16400 a
+16500 b
+16600 c
+16700 d
+17000-17400 right
+17600 a
+17700 b
+17800 c
+17900 d
+18200-18600 left
+18800 a
+18900 b
+19000 c
+19100 d
+19400 down
+19600 a
+19700 b
+19800 c
+19900 d
+20200 start
+20600-21000 right
+21200 a
+21300 b
+21400 c
+21500 d
+21800-22200 left
+22400 a
+22500 b
+22600 c
+22700 d
+23000 start
+23500-23900 right

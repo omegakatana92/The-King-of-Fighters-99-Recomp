@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=The King of Fighters '99
+Comment=Native static recompilation of The King of Fighters '99 (Neo Geo)
+Exec=kof99
+Icon=kof99
+Categories=Game;ArcadeGame;
+Terminal=false
